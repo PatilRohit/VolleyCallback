@@ -1,2 +1,2 @@
 # VolleyCallback
-Create a separate class in which define all about volley and in another activity we directly pass URL,CONTEXT and Get Response
+Create a separate class to define all about volley and in another activity pass URL,CONTEXT to instance and Get Response
